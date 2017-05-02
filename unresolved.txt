@@ -1,0 +1,7 @@
+index.html
+	Line 79: Call to "assets/form/html_form_send.php".
+	Incompleted contact card [method="post"]: html_form_send.php
+
+	Incompleted Project Gallery
+		Collect pictures, titles, and published links
+	
