@@ -1,2 +1,2 @@
 # Rebecca Ramnauth Personal Website
-<p> Currently down </p>
+<p> Still a Work In Progress :) </p>
